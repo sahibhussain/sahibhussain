@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sahibhussain/sahibhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm sahib hussain</h1>
+<h3 align="center">Lead iOS Developer @ Sploot</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahibhussain&label=Profile%20views&color=0e75b6&style=flat" alt="sahibhussain" /> </p>
+
+- 🔭 I’m currently working on [Sploot Pvt. Ltd.](https://apps.apple.com/us/app/sploot-dog-walking-service/id1513928912)
